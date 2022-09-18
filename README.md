@@ -1,4 +1,4 @@
-# Mehul Thakkar
+# Yagnik Trivedi
 
 ## Getting started
 

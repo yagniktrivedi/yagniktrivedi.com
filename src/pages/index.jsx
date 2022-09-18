@@ -178,12 +178,12 @@ export default function Home({ blogs }) {
     <>
       <Head>
         <title>
-          Mehul Thakkar - Inventor, software developer, history buff and a
+        Yagnik Trivedi - Inventor, software developer, history buff and a
           budding entrepreneur.
         </title>
         <meta
           name="description"
-          content="I'm Mehul, Inventor, software developer, history buff and a budding
+          content="I'm Yagnik, Inventor, software developer, history buff and a budding
             entrepreneur."
         />
       </Head>
@@ -194,7 +194,7 @@ export default function Home({ blogs }) {
             entrepreneur.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I&apos;m Mehul, an inventor and a software developer based in Pune.
+            I&apos;m Yagnik, an inventor and a software developer based in Pune.
             I&apos;ve around 10+ years of experience in building apps and
             websites in fast-paced, collaborative environments. Skilled in JS,
             React, Next, Remix, GraphQL, Node, Go and an AWS Certified solution

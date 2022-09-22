@@ -45,7 +45,7 @@ export default function Document() {
           src="https://www.googletagmanager.com/gtag/js?id=G-630DXP7G76"
           strategy="afterInteractive"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        {/* <Script id="google-analytics" strategy="afterInteractive">
           {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){window.dataLayer.push(arguments);}
@@ -53,7 +53,7 @@ export default function Document() {
 
           gtag('config', 'G-630DXP7G76');
         `}
-        </Script>
+        </Script> */}
         <link
           rel="alternate"
           type="application/rss+xml"
